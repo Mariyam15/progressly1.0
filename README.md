@@ -33,7 +33,7 @@ lib/
 
 ## Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/progressly.git
+git clone https://github.com/Mariyam15/progressly.git
 2️⃣ Navigate to project folder
 cd progressly
 3️⃣ Install dependencies
